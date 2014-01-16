@@ -1,0 +1,1 @@
+﻿component {	// Default Action	function index(event, rc, prc) {				//Retrieved our cached RSS feed from WireBox		prc.sportsNews = getModel("sportsNews");				// The view "/views/Main/index.cfm" will be run by convention  	}}

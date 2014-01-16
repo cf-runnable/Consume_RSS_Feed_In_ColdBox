@@ -1,0 +1,1 @@
+Consuming RSS feeds is easy in ColdBox.  WireBox can be used to map an RSS feed to a named mapping and provide persistence for the data as well as the ability to autowire it anywhere in your application.  This sample application consumes an RSS feed, caches it, and displays its contents for your viewing pleasure.
